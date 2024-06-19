@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freestyle Hero", "Freestyle Hero\Freestyle Hero.csproj", "{5080486C-3F96-41CE-BBDA-28B29D7BA20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5080486C-3F96-41CE-BBDA-28B29D7BA20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5080486C-3F96-41CE-BBDA-28B29D7BA20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5080486C-3F96-41CE-BBDA-28B29D7BA20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5080486C-3F96-41CE-BBDA-28B29D7BA20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA6884A-6B0F-45E8-A27F-CB470C8CC580}
+	EndGlobalSection
+EndGlobal
